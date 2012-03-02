@@ -1,6 +1,6 @@
 /**
  * onChanged
- * Project page - 
+ * Project page - http://yes2.me/onchanged-project
  * Copyright (c) 2008 Andris Valums, http://yes2.me
  * Licensed under the MIT license (http://en.wikipedia.org/wiki/MIT_License)
  * Version 0.1 (3.3.2011)
