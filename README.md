@@ -13,7 +13,7 @@ jQuery - onChanged
 		}); 	
 	});
 
-  - 解除内容检测事件
+解除内容检测事件:
 
 	$("textarea").blur(function() {
 		$(this).stopOnChanged();
