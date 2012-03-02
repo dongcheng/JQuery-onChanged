@@ -6,6 +6,7 @@ jQuery - onChanged
 使用方法
 ---------
 绑定内容检测事件:
+
 	$("textarea").focus(function() {
 		$(this).onChanged(function(){
 			//处理事件
