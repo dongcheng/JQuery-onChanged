@@ -18,6 +18,3 @@ jQuery - onChanged
 	$("textarea").blur(function() {
 		$(this).stopOnChanged();
 	});
-> 更多问题联系
->
->
