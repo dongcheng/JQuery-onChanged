@@ -1,7 +1,7 @@
 jQuery - onChanged Plugin  v0.2
 =========
 *  用于实时检测 `<input>` `<textarea>` 元素内容变化的事件。
-*  项目地址: [github.com/Yes2Me/JQuery-onChanged](https://github.com/Yes2Me/JQuery-onChanged/ "JQuery-onChanged")
+*  项目地址: [http://yes2.me/project/onchanged-project](http://yes2.me/project/onchanged-project "JQuery-onChanged")
 
 为什么使用这个插件
 ---------
